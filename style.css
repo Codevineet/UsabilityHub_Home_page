@@ -52,7 +52,7 @@ ul {
 
 /* styling first banner */
 .top-banner {
-  background-image: url("/Images/asset\ 32.png");
+  background-image: url("./Images/asset\ 32.png");
   background-size: 300px;
   background-color: #4dadf7;
   text-align: center;
