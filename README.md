@@ -1,5 +1,5 @@
 # UsabilityHub_Home_page
-This is a cloned webpage page of the UsabilityHub website.
+This is a cloned webpage of the UsabilityHub website.
 
 
 I tried to make it responsive so that it will properly work on every device.
